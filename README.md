@@ -13,7 +13,6 @@ construyendo y operando MasterTrack GPS, y desarrollo software con .NET y Flutte
 - **Video y cumplimiento:** cámaras MDVR, bitácoras electrónicas de horas de servicio (ELD/HOS) y equipos satelitales.
 - **Integraciones:** más de 20 APIs para enviar ubicaciones y eventos a centros de monitoreo, aseguradoras y empresas de logística.
 - **Plataforma completa:** web, escritorio y apps móviles, reportes programados, geocercas, rutas y notificaciones.
-- **Modernización:** migración de Visual Basic 6 y WinForms a .NET 10, Blazor y servicios en segundo plano, sin detener la operación.
 
 ## Proyectos personales
 
