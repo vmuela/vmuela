@@ -1,9 +1,21 @@
 # Hola, soy Valente Muela
 
-Desarrollo software con .NET y Flutter. Trabajo en MasterTrack GPS, una plataforma
-de rastreo y telemetría para flotillas, y creo mis propias aplicaciones web y móviles.
+Experto en plataformas de rastreo GPS y telemetría para flotillas. Llevo más de 20 años
+construyendo y operando MasterTrack GPS, y desarrollo software con .NET y Flutter.
 
-## Proyectos
+## Rastreo GPS y telemetría
+
+- **20+ años** en MasterTrack GPS, de los servidores de comunicación a las apps que usan los clientes.
+- **Protocolos y equipos:** servidores que reciben y decodifican las tramas de equipos de más de 25 marcas
+  (Teltonika, Queclink, Suntech, Ruptela, Concox, Meitrack, Syrus, CalAmp, ATrack, Cellocator, entre otras),
+  con envío de comandos y configuración remota.
+- **Telemetría:** CANbus y códigos de falla, combustible, temperatura de cajas refrigeradas, entradas analógicas y alarmas.
+- **Video y cumplimiento:** cámaras MDVR, bitácoras electrónicas de horas de servicio (ELD/HOS) y equipos satelitales.
+- **Integraciones:** más de 20 APIs para enviar ubicaciones y eventos a centros de monitoreo, aseguradoras y empresas de logística.
+- **Plataforma completa:** web, escritorio y apps móviles, reportes programados, geocercas, rutas y notificaciones.
+- **Modernización:** migración de Visual Basic 6 y WinForms a .NET 10, Blazor y servicios en segundo plano, sin detener la operación.
+
+## Proyectos personales
 
 | Proyecto | Qué hace | Stack |
 |---|---|---|
@@ -19,7 +31,7 @@ El código de estos proyectos es privado; puedes probarlos en los enlaces.
 - **Web:** C#, .NET 10, Blazor WebAssembly, Radzen, Bootstrap, Tailwind CSS
 - **Móvil:** Flutter
 - **Datos y backend:** SQL Server, Supabase (PostgreSQL, Auth, Edge Functions), ASP.NET
-- **Dominio:** protocolos GPS y telemetría (Teltonika, Suntech, Queclink, Ruptela)
+- **Rastreo GPS:** protocolos de comunicación, configuración de equipos e integraciones entre plataformas
 
 ## Contacto
 
