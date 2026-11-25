@@ -22,6 +22,7 @@ construyendo y operando MasterTrack GPS, y desarrollo software con .NET y Flutte
 | **Running Analysis** · [app](https://running-analysis-app.pages.dev/) · [sitio](https://running-analysis.pages.dev/) | Analiza carreras (GPX, TCX, FIT): ritmo, splits, mapa y planes de entrenamiento con IA | Blazor WASM, Leaflet, Supabase |
 | **Expense IA** · [app](https://expenseia-app.pages.dev/) · [sitio](https://expenseia.pages.dev/) | Registro de gastos por categoría y cuánto pagar de tus tarjetas cada mes | Blazor WASM, Supabase |
 | **Agrupa** · [app](https://agrupa-app.pages.dev/) · [sitio](https://agrupa.pages.dev/) | Listas y cooperaciones para tu grupo con un link para WhatsApp: quién va, quién pagó y cuánto falta | Blazor WASM, Radzen, Supabase |
+| **Abonito** · [app](https://abonito-app.pages.dev/) · [sitio](https://abonito.pages.dev/) | Ventas de contado y en abonos para quien vende sin local: saldo de cada cliente, cobros por WhatsApp y funciona sin internet | Blazor WASM (PWA sin conexión), Supabase |
 
 El código de estos proyectos es privado; puedes probarlos en los enlaces.
 
